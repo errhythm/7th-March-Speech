@@ -10,11 +10,11 @@ Requires at least: 4.6
 
 
 
-Based on a famous Wordpress Plugin Hello Dolly, The historical Speech of Bangabandhu Sheikh Mujibur Rahman, which was a de facto declaration of Bangladesh's independence.
+একটি বিখ্যাত ওয়ার্ডপ্রেস প্লাগইন হ্যালো ডলির উপর ভিত্তি করে, বঙ্গবন্ধু শেখ মুজিবুর রহমানের ঐতিহাসিক ভাষণ, যা ছিল বাংলাদেশের স্বাধীনতার একটি প্রকৃত ঘোষণা।
 
 
 
 == Description ==
 
 
-Based on a famous Wordpress Plugin Hello Dolly, The historical Speech of Bangabandhu Sheikh Mujibur Rahman, which was a de facto declaration of Bangladesh's independence.
+একটি বিখ্যাত ওয়ার্ডপ্রেস প্লাগইন হ্যালো ডলির উপর ভিত্তি করে, বঙ্গবন্ধু শেখ মুজিবুর রহমানের ঐতিহাসিক ভাষণ, যা ছিল বাংলাদেশের স্বাধীনতার একটি প্রকৃত ঘোষণা।
