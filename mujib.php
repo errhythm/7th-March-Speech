@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: 7th March Speech
-Plugin URI: N/A
+Plugin URI: https://github.com/errhythm/7th-March-Speech
 Description: Based on a famous Wordpress Plugin Hello Dolly, The historical Speech of Bangabandhu Sheikh Mujibur Rahman, which was a de facto declaration of Bangladesh's independence.
 Author: Ehsanur Rahman Rhythm
 Version: 1.0
