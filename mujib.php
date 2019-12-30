@@ -12,7 +12,7 @@ Version: 1.0
 Author URI: http://errhythm.me
 */
 
-function Bangabandhu_get_lyric() {
+function Bangabandhu_get_7th_March_speech() {
 	/** These are the speech to Hello Dolly */
 	$speech = "My dear brothers . . .
 I have come before your today with a heavy heart.
@@ -123,7 +123,7 @@ Joy Bangla!";
 
 // This just echoes the chosen line, we'll position it later.
 function Bangabandhu() {
-	$chosen = Bangabandhu_get_lyric();
+	$chosen = Bangabandhu_get_7th_March_speech();
 	$lang   = '';
 	if ( 'en_' !== substr( get_user_locale(), 0, 3 ) ) {
 		$lang = ' lang="en"';
